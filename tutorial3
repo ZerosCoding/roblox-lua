@@ -1,0 +1,12 @@
+# WARNING READ OTHER TUTORIALS FIRST AND READ THIS THEN.
+
+Welcome to your 3rd tutorial of Roblox Lua! Today you will learn variables and player.
+So lets get started!
+To start with, lets do variables.
+The format for variable is, local {variable name} = {not necessary but if you want it to have a value then you can.}
+But remove the brackets.
+So now you know how to make a variable, lets do player now.
+So to mention a player do, local player = game.Players.LocalPlayer
+You can use this for stuff like, print(player.Name.." has joined the game!")
+The 2 dots represent something that even I dont know but its there, use it for other stuff too.
+Well, if you understand this tutorial then, see you on the next tutorial!
