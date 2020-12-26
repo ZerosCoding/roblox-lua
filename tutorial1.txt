@@ -1,0 +1,19 @@
+Welcome to your first tutorial of Roblox Studio!
+On this tutorial we will cover up how to manage roblox studio and the requirments.
+
+First, requirments.
+-- a PC
+-- A memory card (ram) that can run atleast 600mb.
+-- A comfortable keyboard that you can use.
+-- Good wpm.
+Second, How to install roblox studio.
+Open up RobloxStudioBetaLauncher, it will be in the zip.
+Third, how to make a script?
+You can easily make a new script by, going to ANY parent of the game and clicking the + button. There search up script and you will see 3 scripts,
+Now I will explain how to USE each one of those scripts,
+First of All, a normal script.
+A normal script triggers something in the code. But in that the SERVER (the whole server will be able to see the changes.) or everyone in the game can see the changes.
+Second, a local script.
+This is the same thing as above but, it only happens in the clients screen (or on one persons screen.)
+Third, module script.
+A module script is like data. Basically used for 10% of stuff on your game. I'll cover more on the next tutorial.
