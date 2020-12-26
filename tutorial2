@@ -1,0 +1,12 @@
+# WARNING READ FIRST TUTORIAL BEFORE READING THIS.
+
+Welcome to your second tutorial of roblox studio lua!
+Last time you learned how to make scripts!
+This tutorial I will tell you how to use the print function.
+
+So in script or local script (When you insert a script or local script.) you should see print("Hello World!").
+So what that ACTUALLY does is it sends what you print in the console, for example I wanna write print("I have joined the game!") then i'd do that.
+But the format of the print function is,
+print("")
+In the strings write anything and it will send to the console, give it a try.
+If you have, and you understand this tutorial then, I will see you in the next tutorial!
